@@ -11,10 +11,15 @@ This is a simple Discord bot that allows users to log their expenses directly in
 
 ## 🚀 Usage
 
-Inside any Discord channel where the bot is active:
+In Discord, use the command `!addExpense` to add a new expense. The command format is:
+    ```
+    !addExpense <amount> <category> <description>
+    ```
 
-Example: !addExpense amount category description
-         !addExpense 500 Food Lunch at cafe
+    Example:
+    ```
+    !addExpense 50 Food Bought pizza
+    ```
 
 ## Installation
 
