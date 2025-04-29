@@ -13,7 +13,7 @@ This is a simple Discord bot that allows users to log their expenses directly in
 
 Inside any Discord channel where the bot is active:
 
-Example: !addExpense <amount> <category> <description>
+Example: !addExpense amount category description
          !addExpense 500 Food Lunch at cafe
 
 ## Installation
@@ -21,7 +21,7 @@ Example: !addExpense <amount> <category> <description>
 1. Clone the repository:
     ```bash
     git clone https://github.com/satvik-tan/expense-tracker-bot.git
-    cd expense-tracker
+    cd expense-tracker-bot
     ```
 
 2. Install the required dependencies:
