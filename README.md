@@ -20,8 +20,8 @@ Example: !addExpense <amount> <category> <description>
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/expense-tracker-bot.git
-    cd expense-tracker-bot
+    git clone https://github.com/satvik-tan/expense-tracker-bot.git
+    cd expense-tracker
     ```
 
 2. Install the required dependencies:
